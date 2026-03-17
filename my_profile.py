@@ -1,0 +1,5 @@
+print("My name is sandeep")
+print("Im curently pursuing my btech final year in MVGR college of engineering ")
+print("Im from  batch 2022 - 2026")
+print("I will be passed out in this year(2026)")
+print("currently doing a 100 days training course in codegnan visakhapatnam")
