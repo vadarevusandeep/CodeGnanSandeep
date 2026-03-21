@@ -1,4 +1,4 @@
-operators ---> an operator is a symbol that performs an operation on one or more values
+'''operators ---> an operator is a symbol that performs an operation on one or more values
                 and produce a result.
 
 operators are primarily used:
@@ -15,7 +15,7 @@ there are major seven categories of operators in python
 -->identity operators(is,is not)
 -->bitwise operators
 -->logical operators(and,or,not)
-
+'''
 
 
 #Arithmetic operators--> performs mathematical operations
@@ -57,7 +57,7 @@ print(b)
 #**=
 a = 5
 b = 3
-print( f' the value of a**b is {a**b}')
+print( f' the value of {a}**{b} is {a**b}')
 a **= b
 print( f' the value of a after using  **= is {a}')
 
